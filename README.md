@@ -65,7 +65,8 @@ I have been actively working through TryHackMe’s beginner-friendly cybersecuri
 - Linux Fundamentals Part 3 (Hands-on experience with utilities)
 
 **Windows and Active Directory Fundamentals**
-- Windows Fundamentals 1 (File/Folder Permissions, Local User & Group Management, User Account Control) media/User Account Control -WindowsFundamentals1_Task7_THM.png
+- Windows Fundamentals 1 (File/Folder Permissions, Local User & Group Management, User Account Control)(media/User Account Control -WindowsFundamentals1_Task7_THM.png)
+  
 
 
 **2. Networking Basics**
