@@ -10,9 +10,9 @@ Welcome! This repository documents my self taught, hands-on learning and progres
 
 🌐 
 **Platform: TryHackMe - https://tryhackme.com**
-Username: DHDCSAI  
-Path: Security Analyst
-Progress: ✅ Completed up to "Cryptography Basics"  
+- Username: DHDCSAI  
+- Path: Security Analyst
+- Progress: ✅ Completed up to "Cryptography Basics"  
 
 ---
 
