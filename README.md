@@ -184,4 +184,4 @@ Let’s connect if you’re in cybersecurity or hiring for entry-level roles in 
 
 ---
 
-“Give a man a zero-day and he’ll pwn for a day. Teach a man to phish, and he’ll pwn for a lifetime.” – Some wise hacker, probably behind 7 proxies.
+“Give a man a zero-day and he’ll pwn for a day. Teach a man to phish, and he’ll pwn for a lifetime.” – Some wise hacker, probably behind 7 proxies. ;)
