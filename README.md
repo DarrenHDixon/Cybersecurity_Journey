@@ -22,10 +22,10 @@ I have been actively working through TryHackMe’s beginner-friendly cybersecuri
 
 ---
 
-✅ Currently Completed Modules
-***************************************
-**Pre Security**
-***************************************
+
+**************************************************
+**Pre Security** - ✅ Currently Completed Modules
+**************************************************
 
 **1. Introduction to Cyber Security**
 - Offensive Security Intro
