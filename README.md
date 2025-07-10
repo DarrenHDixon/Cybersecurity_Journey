@@ -53,9 +53,9 @@ I have been actively working through TryHackMe’s beginner-friendly cybersecuri
 ************************************
 **1. Start Your Cyber Security Journey**
 - Offensive Security Intro
-- Defensive Security Intro (Intro to defensive security and related topics such as Threat Intelligence, SOC, DFIR, Malware Analysis and SIEM.
-- Search Skills (Learn to efficiently search the internet and use specialised search engines and technical documents.
-- 
+- Defensive Security Intro (Intro to defensive security and related topics such as Threat Intelligence, SOC, DFIR, Malware Analysis and SIEM)
+- Search Skills (Learn to efficiently search the internet and use specialised search engines and technical documents)
+  
 **2. Linux Fundamentals**
 - Linux Fundamentals Part 1 (Essential Commands on an interactive terminal)
 - Linux Fundamentals Part 2 (Learn to log in to a Linux machine using SSH)
