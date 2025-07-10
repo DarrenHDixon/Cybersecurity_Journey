@@ -20,9 +20,6 @@ Progress: ✅ Completed up to "Cryptography Basics"
 
 I have been actively working through TryHackMe’s beginner-friendly cybersecurity curriculum. The labs are practical, hands-on and designed to teach real-world defensive and offensive security skills.
 
----
-
-
 **************************************************
 **Pre Security** - ✅ Currently Completed Modules
 **************************************************
