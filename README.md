@@ -1,9 +1,10 @@
 Last Updated: 10th July, 2025
 
+****************************
 **My Cybersecurity_Journey**
-My TryHackMe notes and progress throught the Complete Beginner Path
+****************************
 
-Welcome! This repository documents my selef taught, hands-on learning and progress through the 'TryHackMe Complete Beginner Path' up to and including the 'Cryptography Basics' module.
+Welcome! This repository documents my self taught, hands-on learning and progress through the 'TryHackMe SOC Level 1' Path.
 
 ---
 
@@ -21,7 +22,7 @@ Progress: ✅ Completed up to "Cryptography Basics"
 I have been actively working through TryHackMe’s beginner-friendly cybersecurity curriculum. The labs are practical, hands-on and designed to teach real-world defensive and offensive security skills.
 
 **************************************************
-**Pre Security** - ✅ Currently Completed Modules
+🔐 **Pre Security** - ✅ Currently Completed Modules
 **************************************************
 
 **1. Introduction to Cyber Security**
@@ -49,6 +50,7 @@ I have been actively working through TryHackMe’s beginner-friendly cybersecuri
 - Windows Fundamentals 1 -3
   
 ************************************
+🔑
 **Cyber Security 101**
 ************************************
 **1. Start Your Cyber Security Journey**
