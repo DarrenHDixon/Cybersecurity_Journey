@@ -66,6 +66,9 @@ I have been actively working through TryHackMe’s beginner-friendly cybersecuri
 
 **Windows and Active Directory Fundamentals**
 - Windows Fundamentals 1 (File/Folder Permissions, Local User & Group Management, User Account Control) ![ActiveDirectory](media/UserAccountControl_WindowsFundamentals1_task7_thm.png)
+- Windows Fundamentals 2 (System Configuration, UAC Settings, Resource Monitoring, Windows Registry, Windows Management Instrumentation) 
+- Windows Fundamentals 3 (Windows Updates, Windows Security, BitLocker)
+- Active Directory Basics
   
 
 
