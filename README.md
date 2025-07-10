@@ -66,11 +66,14 @@ I have been actively working through TryHackMe’s beginner-friendly cybersecuri
 
 **Windows and Active Directory Fundamentals**
 - Windows Fundamentals 1 (File/Folder Permissions, Local User & Group Management, User Account Control) ![ActiveDirectory](media/UserAccountControl_WindowsFundamentals1_task7_thm.png)
-- Windows Fundamentals 2 (System Configuration, UAC Settings, Resource Monitoring, Windows Registry, Windows Management Instrumentation) 
-- Windows Fundamentals 3 (Windows Updates, Windows Security, BitLocker)
-- Active Directory Basics
-  
+- Windows Fundamentals 2 (System Configuration, UAC Settings, Resource Monitoring, Windows Registry, Windows Management Instrumentation) ![Windodws](media/ComputerManagment_compmgmt.png)
+- Windows Fundamentals 3 (Windows Updates, Windows Security, BitLocker, VSS)
+- Active Directory Basics (Managing Users & Computers, Group Policies, Authentication Methods, Trees-Forests-Trusts) ![Windodws](media/GroupPolicies_WindowsFundaAD.png)
 
+**Command Line**
+- Windows Command Line (Network Troubleshooting, File & Desk Management, Task & Process Management) ![CommandLine](media/TraceRoute_WindowsCLI.png)
+- Windows PowerShell (System & Network Information, Real-Time System Analysis, Scripting) ![CommandLine](media/Get-FileHash_PowerShell.png)
+- Linux Shells (Shell Scripting & Components) ![CommandLine](media/LockerScript_PowerShell.png) 
 
 **2. Networking Basics**
 - Network Fundamentals 🔌
